@@ -1,3 +1,5 @@
 <!--pages/home/home.wxml-->
 <text class="title">这里是饿了呗</text>
 <button size="mini">按钮</button>
+
+<view>知识点222222222</view>
